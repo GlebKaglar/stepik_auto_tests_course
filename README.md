@@ -1,5 +1,5 @@
 # stepik_auto_tests_course
-Здесь находятся домашние задания по курсу https://stepik.org/course/575
+Здесь находятся домашние задания по курсу [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575)
 и с этого момента начинается мое знакомство с Git C:
 
 
@@ -9,3 +9,4 @@
 # Полезные ссылки
 * [Удаление commita](https://gist.github.com/vorozhba/b458077f396191a6105cf91e1739a313)
 * [Шпаргалка по Markdown](https://github.com/sandino/Markdown-Cheatsheet) - **язык разметки**, для красивого оформления текста
+* [Git Tips](https://github.com/VitaliyYa/git-tips) - часто используемые трюки и советы при работе с **Git**
